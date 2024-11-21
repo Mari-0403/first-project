@@ -1,11 +1,17 @@
 h1 {
     color: purple;
     text-align: center;
-    font-size: x-large;
+    font-size: 42px;
 }
 
-p {
+.commit {
     color: aquamarine;
     text-align: end;
-    font-size: smaller;
+    font-size: 20px;
+}
+
+.push {
+    color: brown;
+    text-align: start;
+    font-size: 20px;
 }
